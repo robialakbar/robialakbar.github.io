@@ -1,11 +1,11 @@
-## Road Map Mata Kuliah RPL <br><p style="font-size:8px">dari Bapak Yohanes Setiawan, M. Kom</p>
+## Road Map Mata Kuliah RPL <br>dari Bapak Yohanes Setiawan, M. Kom
 
 ---
 
 ### Tugas Penyaduran
 
 [Pertemuan ke-1](/sample_page)
-<img src="images/thumbnail_1.jpeg?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Pertemuan ke-2](/pdf/sample_presentation.pdf)
