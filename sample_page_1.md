@@ -33,4 +33,4 @@ File Materi Kuliah dapat di download pada link di bawah ini :
 For Download Click here [Materi Pertemuan ke-1](/pdf/sample_presentation.pdf).
 
 ### 4. Penutup
-<img src="images/thumbnail_1.jpg?raw=true"/>
+<img src="images/dummy_thumbnail_1.jpg?raw=true"/>
