@@ -29,7 +29,7 @@ MatKul : RPL
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-### 4. Provide a basis for further data collection through surveys or experiments
+<!--### 4. Provide a basis for further data collection through surveys or experiments
 
 Hasil Penyaduran saya pada Pertemuan ke -1 Mata Kuliah RPL adalah : . 
 
