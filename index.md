@@ -31,5 +31,5 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://robialakbar.com">robi al akbar</a></p>
+<p style="font-size:11px">Page Design by <a href="https://robialakbar.com">robi al akbar</a></p>
 <!-- Remove above link if you don't want to attibute -->
