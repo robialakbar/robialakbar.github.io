@@ -5,7 +5,7 @@
 ### Tugas Penyaduran
 
 [Pertemuan ke-1](/sample_page_1)
-<a href="/sample_page"><img src="images/dummy_thumbnail_1.jpg?raw=true"/></a>
+<a href="/sample_page_1"><img src="images/dummy_thumbnail_1.jpg?raw=true"/></a>
 
 ---
 [Pertemuan ke-2](#)     <!--(/pdf/sample_presentation.pdf) -->
