@@ -8,11 +8,11 @@
 <a href="/sample_page"><img src="images/dummy_thumbnail_1.jpg?raw=true"/></a>
 
 ---
-[Pertemuan ke-2](#)     <!--(/pdf/sample_presentation.pdf)
+[Pertemuan ke-2](#)     <!--(/pdf/sample_presentation.pdf) -->
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Pertemuan ke-3](http://example.com/)
+[Pertemuan ke-3](#)   <!-- (http://example.com/) -->
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
