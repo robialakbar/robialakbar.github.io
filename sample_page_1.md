@@ -25,12 +25,12 @@ MatKul : RPL
 }
 ```
 
-### 3. Penutup
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### 3. File Materi Kuliah
 
-<!--### 4. Provide a basis for further data collection through surveys or experiments
+File Materi Kuliah dapat di download pada link di bawah ini : 
 
-Hasil Penyaduran saya pada Pertemuan ke -1 Mata Kuliah RPL adalah : . 
+For Download Click here [Materi Pertemuan ke-1](/pdf/sample_presentation.pdf).
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 4. Penutup
+<img src="images/thumbnail_1.jpg?raw=true"/>
