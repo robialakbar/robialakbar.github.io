@@ -1,10 +1,10 @@
-## Developer Portfolio Landing Page Template
+## REPOSITORY ROBI AL AKBAR
 
 ### Introduction
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+Repository ini digunakan untuk Tugas Kuliah RPL dan mungkin Mata kuliah lainnya.
 
-<img src="images/demo.gif?raw=true"/>
+<img src="images/?raw=true"/>
 
 ### Installation
 
