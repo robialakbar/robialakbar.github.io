@@ -1,4 +1,4 @@
-## Road Map Mata Kuliah RPL <br>dari Bapak Yohanes Setiawan, M. Kom
+## Road Map Mata Kuliah RPL <br><p style="font-size:8px">dari Bapak Yohanes Setiawan, M. Kom</p>
 
 ---
 
