@@ -4,7 +4,7 @@
 
 ### Tugas Penyaduran
 
-[Pertemuan ke-1](/sample_page)
+[Pertemuan ke-1](/sample_page_1)
 <a href="/sample_page"><img src="images/dummy_thumbnail_1.jpg?raw=true"/></a>
 
 ---
