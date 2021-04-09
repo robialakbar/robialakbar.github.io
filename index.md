@@ -1,18 +1,18 @@
-## Portfolio
+## Road Map RPL dari Bapak Yohanes Setiawan, M. Kom
 
 ---
 
-### Category Name 1 
+### Tugas Penyaduran
 
-[Project 1 Title](/sample_page)
+[Pertemuan ke-1](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Pertemuan ke-2](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Pertemuan ke-3](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
