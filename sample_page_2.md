@@ -49,4 +49,4 @@ For Download Click here [Untuk File Actifity Diagram ](/pdf/sample_presentation_
 
 ### 4. Penutup
 Mohon maaf jika ada salah kata dan lain lain, Sekian saya ucapkan terima kasih.
-<img src="images/dummy_thumbnail_1.jpg?raw=true"/>
+<img src="images/dummy_thumbnail_2.jpg?raw=true"/>
