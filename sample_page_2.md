@@ -1,6 +1,6 @@
-## Saduran 1 / Mata Kuliah Analisa dan Perancangan Perangkat Lunak / by robi al akbar
+## Saduran 2 / Mata Kuliah Analisa dan Perancangan Perangkat Lunak / by robi al akbar
 
-**Project description:** Pertemuan ke -1 Rekayasa Perangkat Lunak /  Menyadur.
+**Project description:** Pertemuan ke -2 Rekayasa Perangkat Lunak /  Menyadur " Analisis Masalah, Analisis Proses Bisnis dan Activity Diagram ".
 
 ### 1. Perkenalan / Personal Information
 
@@ -16,12 +16,26 @@ MatKul : RPL
 ### 2. Isi Saduran
 
 ```javascript
-1. Absensi akan dihitung pada saat kita membuat dan mengumpulkan tugas
-2. Nilai tugas akan dilihat dari kualitas tugas yang dikumpulkan
-3. Pentingnya Etika yang berbudi luhur selain dari ilmu yang di dapat
-4. Materi di sampikan agar membuat sebuah repository yang saya tangkap pak yohanes ingin membiasakan kita menggunakan repository github
-5. Pentingnya Penggunaan Github yang merupakan work Flo wajib bagi programmer dan pak yohanes tau itu dan mencoba mengajarkan mahasiswa agar mahasiswa terbiasa menggunakan github
-6. Diharapkan mahasiswa menyadur materi yang disampaikan karena memang menyadur atau merangkum dan sejenis nya sangat penting agar mahasiswa memahami materi yang disampaikan oleh dosen
+1. Analisis masalah adalah sebuah konsep untuk menganalisa masalah masalah
+   yang ada pada pada suatu sistem.
+2. Analisis Sistem Berjalan adalah sebuah konsep untuk menganalisa prosedur
+   atau proses bisnis pada suatu sistem yang ada / sedang berjalan.
+3. Activity Diagram adalah konsep untuk menggambarkan prosedur suatu sistem
+   yang berjalan kedalam suatu diagram agar dapat dengan mudah melihat
+   urutan proses bisnis nya.
+
+Contoh Analisis Sistem Berjalan yang saya buat sendiri dari studi kasus
+Pembelajaran online adalah sebagai berikut :
+1. Mahasiswa buka github.com
+2. Mahasiswa membuat repository
+3. Mahasiswa Membuat Saduran / Content
+5. Mahasiswa mengirim Link repository Berisi Saduran
+6. Jika Mahasiswa tidak mengirim link repository Github, Maka Absensi dan
+   tugas dianggap tidak ada.
+7. Dosen mengecek repository dan Content Saduran Mahasiswa
+8. Jika link repository Github nya tersedia, maka dosen akan memberikan
+   nilai absensi dan nilai tugas. Sedangkan jika link tidak tersedia maka
+   Dosen akan mengkonfirmasi ke Mahasiswa bahwa Link repository Github
 }
 ```
 
