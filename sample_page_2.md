@@ -50,4 +50,4 @@ For Download Click here [Materi Pertemuan ke-1](/pdf/sample_presentation.pdf).
 
 ### 4. Penutup
 Mohon maaf jika ada salah kata dan lain lain, Sekian saya ucapkan terima kasih.
-<img src="images/dummy_thumbnail_1.jpg?raw=true"/>
+<img src="images/Activity_Diagram.jpg?raw=true"/>
