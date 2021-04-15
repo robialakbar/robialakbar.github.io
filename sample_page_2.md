@@ -44,7 +44,8 @@ Pembelajaran online adalah sebagai berikut :
    Dosen akan mengkonfirmasi ke Mahasiswa bahwa Link repository Github
 }
 ```
-### File hasil membuat Actifity Diagram dibawah ini : </b> 
+
+### File hasil membuat Actifity Diagram dibawah ini :
 <embed type="application/pdf" src="/pdf/sample_presentation_1.pdf" width="600" height="400">
 
 
