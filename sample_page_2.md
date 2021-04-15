@@ -26,6 +26,7 @@ MatKul : RPL
 
 Contoh Analisis Sistem Berjalan yang saya buat sendiri dari studi kasus
 Pembelajaran online adalah sebagai berikut :
+Judul : proses Bisnis Absensi dan Pengumpulan tugas Mahasiswa
 1. Mahasiswa buka github.com
 2. Mahasiswa membuat repository
 3. Mahasiswa Membuat Saduran / Content
