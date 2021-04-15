@@ -44,14 +44,15 @@ Pembelajaran online adalah sebagai berikut :
    Dosen akan mengkonfirmasi ke Mahasiswa bahwa Link repository Github
 }
 ```
-<b>File hasil membuat Actifity Diagram dibawah ini : </b> 
+### File hasil membuat Actifity Diagram dibawah ini : </b> 
 <embed type="application/pdf" src="/pdf/sample_presentation_1.pdf" width="600" height="400">
-<br>
-<b>Video Pembuatan Diagram Activity :</b>
+
+
+### Video Pembuatan Diagram Activity :
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B0ptrD_fvbY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay=1; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-For Download Click here [Untuk File Actifity Diagram ](/pdf/sample_presentation_1.pdf).
+### For Download Click here [Untuk File Actifity Diagram ](/pdf/sample_presentation_1.pdf).
 
 ### 4. Penutup
 Mohon maaf jika ada salah kata dan lain lain, Sekian saya ucapkan terima kasih.
