@@ -42,8 +42,9 @@ Judul : proses Bisnis Absensi dan Pengumpulan tugas Mahasiswa
 
 
 ### 3. File Materi Kuliah
-
 File Materi Kuliah dapat di download pada link di bawah ini : 
+
+<img src="images/dummy_thumbnail.jpg">
 
 For Download Click here [Materi Pertemuan ke-1](/pdf/sample_presentation.pdf).
 
