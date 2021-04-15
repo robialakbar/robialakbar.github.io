@@ -41,7 +41,7 @@ Pembelajaran online adalah sebagai berikut :
 7. Dosen mengecek repository dan Content Saduran Mahasiswa
 8. Jika link repository Github nya tersedia, maka dosen akan memberikan
    nilai absensi dan nilai tugas. Sedangkan jika link tidak tersedia maka
-   Dosen akan mengkonfirmasi ke Mahasiswa bahwa Link repository Github
+   Dosen akan mengkonfirmasi ke Mahasiswa bahwa Link repository Github tidak tersedia
 }
 ```
 
