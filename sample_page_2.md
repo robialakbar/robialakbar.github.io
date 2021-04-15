@@ -46,7 +46,7 @@ Pembelajaran online adalah sebagai berikut :
 ```
 <b>File hasil membuat Actifity Diagram dibawah ini : </b> 
 <embed type="application/pdf" src="/pdf/sample_presentation_1.pdf" width="600" height="400">
-
+<br>
 <b>Video Pembuatan Diagram Activity :</b>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B0ptrD_fvbY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay=1; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
