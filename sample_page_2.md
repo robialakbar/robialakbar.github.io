@@ -24,7 +24,12 @@ MatKul : RPL
    yang berjalan kedalam suatu diagram agar dapat dengan mudah melihat
    urutan proses bisnis nya.
 
-Contoh Analisis Sistem Berjalan yang saya buat sendiri dari studi kasus
+
+```
+
+
+### 3. File Hasil Pembuatan Actifity Diagram
+```Contoh Analisis Sistem Berjalan yang saya buat sendiri dari studi kasus
 Pembelajaran online adalah sebagai berikut :
 Judul : proses Bisnis Absensi dan Pengumpulan tugas Mahasiswa
 1. Mahasiswa buka github.com
@@ -39,10 +44,6 @@ Judul : proses Bisnis Absensi dan Pengumpulan tugas Mahasiswa
    Dosen akan mengkonfirmasi ke Mahasiswa bahwa Link repository Github
 }
 ```
-
-
-### 3. File Hasil Pembuatan Actifity Diagram
-
 File hasil membuat Actifity Diagram dibawah ini : 
 <embed type="application/pdf" src="/pdf/sample_presentation_1.pdf" width="600" height="400"></embed>
 
