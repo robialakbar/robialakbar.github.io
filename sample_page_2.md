@@ -44,6 +44,7 @@ Judul : proses Bisnis Absensi dan Pengumpulan tugas Mahasiswa
 ### 3. File Hasil Pembuatan Actifity Diagram
 
 File hasil membuat Actifity Diagram dibawah ini : 
+<embed type="application/pdf" src="/pdf/sample_presentation_1.pdf" width="600" height="400"></embed>
 
 For Download Click here [Untuk File Actifity Diagram ](/pdf/sample_presentation_1.pdf).
 
