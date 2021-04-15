@@ -45,7 +45,7 @@ Pembelajaran online adalah sebagai berikut :
 }
 ```
 File hasil membuat Actifity Diagram dibawah ini : 
-<embed type="application/pdf" src="/pdf/sample_presentation_1.pdf" width="600" height="400"></embed>
+<embed type="application/pdf" src="/pdf/sample_presentation_1.pdf" width="600" height="400">
 
 For Download Click here [Untuk File Actifity Diagram ](/pdf/sample_presentation_1.pdf).
 
