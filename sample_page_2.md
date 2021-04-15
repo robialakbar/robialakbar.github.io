@@ -41,13 +41,12 @@ Judul : proses Bisnis Absensi dan Pengumpulan tugas Mahasiswa
 ```
 
 
-### 3. File Materi Kuliah
-File Materi Kuliah dapat di download pada link di bawah ini : 
+### 3. File Hasil Pembuatan Actifity Diagram
 
-<img src="images/dummy_thumbnail.jpg">
+File hasil membuat Actifity Diagram dibawah ini : 
 
-For Download Click here [Materi Pertemuan ke-1](/pdf/sample_presentation.pdf).
+For Download Click here [Untuk File Actifity Diagram ](/pdf/sample_presentation_1.pdf).
 
 ### 4. Penutup
 Mohon maaf jika ada salah kata dan lain lain, Sekian saya ucapkan terima kasih.
-<img src="images/Activity_Diagram.jpg?raw=true"/>
+<img src="images/dummy_thumbnail_1.jpg?raw=true"/>
