@@ -23,7 +23,7 @@ MatKul : RPL
 2. Analisa proses bisnis yang diusulkan menurut saya sendiri adalah hasil dari analisa solusi 
    yang di formulasikan dari hasil analisa solusi pada sistem berjalan.
   
-3. Activity Diagram untuk memodelkan sistem usulan menurut saya adalah Proses membuat 
+3. Activity Diagram untuk memodelkan sistem usulan, menurut saya adalah Proses membuat 
    Model sistem berupa Activity Giagram dari hasil analisa proses bisnis yang diusulkan sebelumnya
    yang yang merupakan kesatuan solusi yang diusulkan atau di tawarkan untuk digunakan.
 
@@ -31,10 +31,10 @@ MatKul : RPL
 ```
 
 
-### 3. File Hasil Pembuatan Actifity Diagram
-```Contoh Analisis Sistem Berjalan yang saya buat sendiri dari studi kasus
-Pembelajaran online adalah sebagai berikut :
-<br>Judul : proses Bisnis Absensi dan Pengumpulan tugas Mahasiswa
+### 3. File Hasil Pembuatan Actifity Diagram Usulan
+```Contoh Analisis Sistem Usulan yang saya buat sendiri dari studi kasus
+Pembelajaran online yang saya usulkan untuk di perbaiki sedikit adalah sebagai berikut :
+<br>Judul : proses Bisnis Absensi dan Pengumpulan tugas Mahasiswa yang saya usulkan
 1. Mahasiswa buka github.com
 2. Mahasiswa membuat repository
 3. Mahasiswa Membuat Saduran / Content
