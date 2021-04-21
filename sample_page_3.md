@@ -41,9 +41,8 @@ Pembelajaran yang  ada di kampus biasanya / keadaan normal seperti berikut :
 5. Mahasiswa mengumpulkan tugas 
 6. Dosen Mengecek tugas saduran yang dikumpulan oleh mahasiswa.
 7. Jika Mahasiswa mengumpulkan tugas, Maka Absensi dan Nilai ada. 
-8. Jika tugas saduran dikumpulkan, maka dosen akan memberikan
-   nilai absensi dan nilai tugas. Sedangkan jika tugas saduran tidak dikumpulkan maka 
-   tidak ada nilai absensi dan nilai tugas.
+8. Jika tugas saduran tidak dikumpulkan, maka dosen tidak akan memberikan
+   nilai absensi dan nilai tugas. 
 }
 
 ### File hasil membuat Actifity Diagram Analisa Berjalan :
