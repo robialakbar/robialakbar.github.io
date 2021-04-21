@@ -80,5 +80,11 @@ seperti biasa/noraml seperti studi kasus diatas adalah sebagai berikut :
 ### For Download Click here [Untuk File Actifity Diagram ](/pdf/sample_presentation_1.pdf).
 
 ### 4. Penutup
-Mohon maaf jika ada salah kata dan lain lain, Sekian saya ucapkan terima kasih.
+Demikian lah Tugas Pertemuan ke -3 ini saya buat dengan menggunakan Studi Kasus yang
+saya buat sendiri agar supaya saya lebih bisa memahami apa yang bisa saya mengerti 
+dari materi yang diberikan oleh dosen kepada saya mengenai pemahaman bagaimana menaganalisa
+suatu sistem, membuat usulan solusi sistem lalu menuangkannya kedalam bentuk actifity diagram.
+sekian dan mohon maaf jika ada salah kata dan lain lain, Saya ucapkan terima kasih.
+
+Best regard  " robi al akbar "
 <img src="images/dummy_thumbnail_3.jpg?raw=true"/>
