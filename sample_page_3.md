@@ -31,9 +31,35 @@ MatKul : RPL
 ```
 
 
-### 3. File Hasil Pembuatan Actifity Diagram Usulan
+### 3. Studi Kasus Analisa Berjalan
+```Contoh Analisis Sistem Berjalan yang saya buat sendiri dari studi kasus
+Pembelajaran yang  ada di kampus biasanya / keadaan normal seperti berikut :
+<br>Judul : proses Bisnis Absensi dan Pengumpulan tugas Mahasiswa yang biasa / normal
+1. Mahasiswa masuk kelas 
+2. Dosen meberikan tugas saduran
+3. Mahasiswa Membuat tugas Saduran
+5. Mahasiswa mengumpulkan tugas 
+6. Dosen Mengecek tugas saduran yang dikumpulan oleh mahasiswa.
+7. Jika Mahasiswa mengumpulkan tugas, Maka Absensi dan Nilai ada. 
+8. Jika tugas saduran dikumpulkan, maka dosen akan memberikan
+   nilai absensi dan nilai tugas. Sedangkan jika tugas saduran tidak dikumpulkan maka 
+   tidak ada nilai absensi dan nilai tugas.
+}
+
+### File hasil membuat Actifity Diagram Analisa Berjalan :
+<embed type="application/pdf" src="/pdf/sample_presentation_1.pdf" width="600" height="400">
+
+### For Download Click here [Untuk File Actifity Diagram ](/pdf/sample_presentation_1.pdf).
+
+
+```
+
+```
+
+### 4. Studi Kasus Analisa Usulan Usulan
 ```Contoh Analisis Sistem Usulan yang saya buat sendiri dari studi kasus
-Pembelajaran online yang saya usulkan untuk di perbaiki sedikit adalah sebagai berikut :
+Pembelajaran online yang saya usulkan untuk di perbaiki sedikit dari Sistem pembelajaran
+seperti biasa/noraml seperti studi kasus diatas adalah sebagai berikut :
 <br>Judul : proses Bisnis Absensi dan Pengumpulan tugas Mahasiswa yang saya usulkan
 1. Mahasiswa buka github.com
 2. Mahasiswa membuat repository
@@ -46,14 +72,10 @@ Pembelajaran online yang saya usulkan untuk di perbaiki sedikit adalah sebagai b
    nilai absensi dan nilai tugas. Sedangkan jika link tidak tersedia maka
    Dosen akan mengkonfirmasi ke Mahasiswa bahwa Link repository Github tidak tersedia
 }
-```
 
-### File hasil membuat Actifity Diagram dibawah ini :
+
+### File hasil membuat Actifity Diagram Analisa yang diusulkan :
 <embed type="application/pdf" src="/pdf/sample_presentation_1.pdf" width="600" height="400">
-
-
-### Video Pembuatan Diagram Activity :
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B0ptrD_fvbY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay=1; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### For Download Click here [Untuk File Actifity Diagram ](/pdf/sample_presentation_1.pdf).
