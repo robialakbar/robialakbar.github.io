@@ -1,6 +1,6 @@
 ## Saduran 3 / Mata Kuliah Analisa dan Perancangan Perangkat Lunak / by robi al akbar
 
-**Project description:** Pertemuan ke -3 Rekayasa Perangkat Lunak /  Menyadur " Analisa Solusi Sistem yang Diusulkan, Analisa Proses Bisnis Sistem Yang Diusulkan dan Ectivity Diagram untuk Memodelkan Sistem Usulan ".
+**Project description:** Pertemuan ke -3 Rekayasa Perangkat Lunak /  Menyadur <b>" Analisa Solusi Sistem yang Diusulkan, Analisa Proses Bisnis Sistem Yang Diusulkan dan Ectivity Diagram untuk Memodelkan Sistem Usulan "</b>.
 
 ### 1. Perkenalan / Personal Information
 
