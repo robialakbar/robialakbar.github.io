@@ -15,6 +15,7 @@
 
 ---
 [Pertemuan ke-3](/sample_page_3)   <!-- (http://example.com/) -->
+<a href="/sample_page_2">
 <img src="images/dummy_thumbnail_3.jpg?raw=true"/></a>
 
 ---
