@@ -82,4 +82,4 @@ seperti biasa/noraml seperti studi kasus diatas adalah sebagai berikut :
 
 ### 4. Penutup
 Mohon maaf jika ada salah kata dan lain lain, Sekian saya ucapkan terima kasih.
-<img src="images/dummy_thumbnail_2.jpg?raw=true"/>
+<img src="images/dummy_thumbnail_3.jpg?raw=true"/>
