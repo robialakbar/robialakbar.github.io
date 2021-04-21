@@ -46,9 +46,9 @@ Pembelajaran yang  ada di kampus biasanya / keadaan normal seperti berikut :
 }
 
 ### File hasil membuat Actifity Diagram Analisa Berjalan :
-<embed type="application/pdf" src="/pdf/sample_presentation_1.pdf" width="600" height="400">
+<embed type="application/pdf" src="/pdf/sample_presentation_2.pdf" width="600" height="400">
 
-### For Download Click here [Untuk File Actifity Diagram ](/pdf/sample_presentation_1.pdf).
+### For Download Click here [Untuk File Actifity Diagram ](/pdf/sample_presentation_2.pdf).
 
 
 ```
