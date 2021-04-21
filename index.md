@@ -5,17 +5,25 @@
 ### Tugas Penyaduran
 
 [Pertemuan ke-1](/sample_page_1)
-<a href="/sample_page_1"><img src="images/dummy_thumbnail_1.jpg?raw=true"/></a>
+<a href="/sample_page_1">
+<img src="images/dummy_thumbnail_1.jpg?raw=true"/></a>
 
 ---
 [Pertemuan ke-2](/sample_page_2)     <!--(/pdf/sample_presentation.pdf) -->
-<a href="/sample_page_2"><img src="images/dummy_thumbnail_2.jpg?raw=true"/></a>
+<a href="/sample_page_2">
+<img src="images/dummy_thumbnail_2.jpg?raw=true"/></a>
 
 ---
-[Pertemuan ke-3](#)   <!-- (http://example.com/) -->
+[Pertemuan ke-3](/sample_page-3)   <!-- (http://example.com/) -->
+<img src="images/dummy_thumbnail_3.jpg?raw=true"/></a>
+
+---
+
+[Pertemuan ke-4](#)   <!-- (http://example.com/) -->
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+
 
 ### Category Name 2
 
