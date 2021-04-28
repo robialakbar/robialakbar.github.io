@@ -19,8 +19,14 @@
 <img src="images/dummy_thumbnail_3.jpg?raw=true"/></a>
 
 ---
+[Pertemuan ke-4](/sample_page_4)     <!--(/pdf/sample_presentation.pdf) -->
+<a href="/sample_page_4">
+<img src="images/dummy_thumbnail_4.jpg?raw=true"/></a>
 
-[Pertemuan ke-4](#)   <!-- (http://example.com/) -->
+---
+---
+
+[Pertemuan ke-5](#)   <!-- (http://example.com/) -->
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
