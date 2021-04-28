@@ -1,15 +1,16 @@
-## Saduran 2 / Mata Kuliah Analisa dan Perancangan Perangkat Lunak / by robi al akbar
+## Saduran 4 / Mata Kuliah Analisa dan Perancangan Perangkat Lunak / by robi al akbar
 
-**Project description:** Pertemuan ke -2 Rekayasa Perangkat Lunak /  Menyadur " Analisis Masalah, Analisis Proses Bisnis dan Activity Diagram ".
+**Project description:** Pertemuan ke -4 Rekayasa Perangkat Lunak /  Menyadur " UseCase Diagram dan UseCase Deskription".
 
 ### 1. Perkenalan / Personal Information
 
-perkenalkan Nama Saya adalah :
+Perkenalkan Nama Saya adalah :
 
 ```javascript
 Nama   : robi al akbar.
 NIM    : 1811500116
 MatKul : RPL 
+Kel    : TI6J
 }
 ```
 
