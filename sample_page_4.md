@@ -57,4 +57,4 @@ Pembelajaran online adalah sebagai berikut :
 
 ### 4. Penutup
 Mohon maaf jika ada salah kata dan lain lain, Sekian saya ucapkan terima kasih.
-<img src="images/dummy_thumbnail_2.jpg?raw=true"/>
+<img src="images/dummy_thumbnail_4.jpg?raw=true"/>
