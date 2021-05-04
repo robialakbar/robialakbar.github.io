@@ -78,7 +78,7 @@ Pembelajaran online adalah sebagai berikut :
 
 
 
-### 4. For Download Click here [Untuk File Actifity Diagram ](/pdf/UseCase Mahasiswa.asta).
+### 4. For Download Click here [Untuk File UseCase Diagram ](/pdf/UseCase Mahasiswa.asta).
 
 ### 5. Penutup
 Mohon maaf jika ada salah kata dan lain lain, Sekian saya ucapkan terima kasih.
