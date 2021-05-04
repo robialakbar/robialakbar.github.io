@@ -55,7 +55,7 @@ Buka Deposito ---<<Extend>>-----> Buka Rekening -----<<Include>>--> Isi Formulir
 ```
 
 
-### 3. File Hasil Pembuatan Actifity Diagram
+### 3. Analisis Sistem Berjalan yang akan di buatkan UseCase nya
 ```Contoh Analisis Sistem Berjalan yang saya buat sendiri dari studi kasus
 Pembelajaran online adalah sebagai berikut :
 <br>Judul : proses Bisnis Absensi dan Pengumpulan tugas Mahasiswa
