@@ -73,7 +73,7 @@ Pembelajaran online adalah sebagai berikut :
 ```
 
 ### File hasil membuat UseCase Diagram dibawah ini :
-<embed type="application/pdf" src="/pdf/sample_presentation_3.pdf" width="600" height="400">
+<embed type="application/pdf" src="/pdf/sample_presentation_3.pdf" width="600" height="800">
 
 
 
