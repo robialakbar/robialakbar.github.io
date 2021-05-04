@@ -17,13 +17,39 @@ Kel    : TI6J
 ### 2. Isi Saduran
 
 ```javascript
-1. Analisis masalah adalah sebuah konsep untuk menganalisa masalah masalah
-   yang ada pada pada suatu sistem.
-2. Analisis Sistem Berjalan adalah sebuah konsep untuk menganalisa prosedur
-   atau proses bisnis pada suatu sistem yang ada / sedang berjalan.
-3. Activity Diagram adalah konsep untuk menggambarkan prosedur suatu sistem
-   yang berjalan kedalam suatu diagram agar dapat dengan mudah melihat
-   urutan proses bisnis nya.
+UseCase Diagram dan Deskripsi UseCase
+
+- Pengguna terdiri dari :
+1. UseCase Diagram untuk pengguna utama perangkat lunak
+2. UseCase Diagram untuk pengguna admin perangkat lunak
+ 
+- UseCase Diagram dan Rancangan Layar Berkaitan satu sama lain.
+
+- Terbagi menjadi 2 aktor :
+1. Aktor Aktif
+   - Biasanya di sebelah kiri
+   - berinteraksi langsung dengan sistem
+
+2. Aktor Pasif
+   - Biasanya di sebelah kanan
+   - Merupakan aktor pendukung / pembantu
+
+3. Include
+   - Bagian dari UseCase Lainnya
+   - Memerlukan UseCase lainnya
+
+4. Exclude
+   - Berdiri Sendiri
+   - Pengembangan
+
+5. Contoh Sederahana :
+
+Buka Deposito ---<<Extend>>-----> Buka Rekening -----<<Include>>--> Isi Formulir
+
+6. Deskripsi UseCase => Untuk Menjelaskan penjabaran UseCase agar di mengerti.
+
+7. Setiap UseCase akan Menjadi Satu Tampilan layar
+
 
 
 ```
