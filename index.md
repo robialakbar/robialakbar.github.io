@@ -26,12 +26,13 @@
 ---
 ---
 
-[Pertemuan ke-5](#)   <!-- (http://example.com/) -->
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Pertemuan ke-5](sample_page_5">)   <!-- (http://example.com/) -->
+<a href="/sample_page_5">
+<img src="images/dummy_thumbnail_5.jpg?raw=true"/>
 
 ---
 
-[Pertemuan ke-5](#)
+[Pertemuan ke-Xxx](#)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 ### Category Name 2
 
