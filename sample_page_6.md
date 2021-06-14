@@ -19,4 +19,4 @@ Kel    : TI6J
 
 ### 5. Penutup
 Mohon maaf jika ada salah kata dan lain lain, Sekian saya ucapkan terima kasih.
-<img src="images/dummy_thumbnail_5.jpg?raw=true"/>
+
