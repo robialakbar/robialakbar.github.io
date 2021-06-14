@@ -31,6 +31,22 @@
 <img src="images/dummy_thumbnail_5.jpg?raw=true"/>
 
 ---
+  ---
+---
+
+[Pertemuan ke-6](sample_page_6">)   <!-- (http://example.com/) -->
+<a href="/sample_page_6">
+<img src="images/dummy_thumbnail_5.jpg?raw=true"/>
+
+---
+  ---
+---
+
+[Pertemuan ke-7](sample_page_7">)   <!-- (http://example.com/) -->
+<a href="/sample_page_7">
+<img src="images/dummy_thumbnail_5.jpg?raw=true"/>
+
+---
 
 [Pertemuan ke-Xxx](#)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
